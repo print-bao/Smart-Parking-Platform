@@ -36,4 +36,4 @@ This WBS divides the Smart Parking PLatform into smaller components to assist wi
 | Reporting | 8–12 |
 ## Gantt Chart
 The current Project Timeline Draft visually represented by a Gantt Chart.
-![Gantt Chart](./assets/images/Gantt_Chart.png)
+![Gantt Chart](/assets/images/Gantt_Chart.png)
