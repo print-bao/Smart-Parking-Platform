@@ -4,8 +4,8 @@
 - **Organization:** $oftware ¢orp.
 - **Course:** CIS 4374
 - **Semester:** Fall 2026
-- **Version:** 3.0
-- **Last Updated:** 09/24/2026
+- **Version:** 3.5
+- **Last Updated:** 10/15/2026
 
 ## Table of Contents
 1. [Project Overview](#project-overview)
@@ -100,4 +100,4 @@ The competitive analysis will focus on:
 The results of the competitive analysis will be used to help refine the project's requirements and overall scope.
 
 ## Update Log
-Added Homework 3.
+Added Homework 6.
