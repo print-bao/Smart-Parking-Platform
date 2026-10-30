@@ -10,4 +10,4 @@ Each week we are required to do the following for the project:
 2. The document version should be updated on github.
 3. A 1-2 minute video update is recorded for stakeholders and uploaded to MS Streams and the link should be submitted on Canvas along with the repository link.
 ## Status
-Adding Homework 6. 
+Adding Homework 7. 

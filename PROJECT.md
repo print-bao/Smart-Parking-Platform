@@ -5,7 +5,7 @@
 - **Course:** CIS 4374
 - **Semester:** Fall 2026
 - **Version:** 3.5
-- **Last Updated:** 10/15/2026
+- **Last Updated:** 10/29/2026
 
 ## Table of Contents
 1. [Project Overview](#project-overview)
@@ -99,5 +99,20 @@ The competitive analysis will focus on:
 
 The results of the competitive analysis will be used to help refine the project's requirements and overall scope.
 
+## Project Documentation
+
+The following documents contain the project planning and management components developed throughout the semester. I will be updating this regularly throughout the semester.
+
+| Document | Description |
+|---|---|
+| [Requirements](REQUIREMENTS.md) | System requirements and specifications. |
+| [WBS and Timeline](WBS_and_Timeline.md) | Work Breakdown Structure, project timeline, and Gantt chart. |
+| [Product Backlog](BACKLOG.md) | Backlog items for Login, User Interface, Backend, and Reporting. |
+| [Sprint 1](SPRINT_1.md) | Sprint 1 backlog and Trello board. |
+| [Risk Register](RISK_REGISTER.md) | Risk identification, probability, impact, ownership, and response strategies. |
+| [Communication Plan](COMMUNICATION_PLAN.md) | Development team meeting cadence and reporting methods. |
+| [Stakeholder Analysis and Charters](stakeholder_analysis.md) | Power-Interest Grid, Project Charter, and Team Charter. |
+| [AI Use Disclosure](AI_Use.md) | Documentation of AI assistance used during the project. |
+
 ## Update Log
-Added Homework 6.
+Added Homework 7. STAKEHOLDER_ANALYSIS.md includes, Stakeholder Analysis, Power-Interest Grid, Project Charter, and Team Charter.

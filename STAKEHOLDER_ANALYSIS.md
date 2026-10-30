@@ -37,7 +37,7 @@ Third-party payment providers will be monitored for any service changes, availab
 
 ### 2.1 Project Overview
 
-The Smart Parking Platform is a software system designed to help drivers locate, reserve, and pay for available parking spaces in parking garages. The system will also provide parking facility operators with tools to manage garage information, monitor parking occupancy, and generate reports.
+The Smart Parking Platform is a software system that is designed to help drivers locate, reserve, and pay for available parking spaces in parking garages. The system will also provide parking facility operators with tools to manage garage information, monitor parking occupancy, and generate reports.
 
 The project is being developed by $oftware ¢orp. to improve parking accessibility and provide a centralized system for drivers and parking facility operators.
 
@@ -97,7 +97,7 @@ The major project deliverables include:
 
 ### 2.7 Project Constraints
 
-The project must be completed within the semester timeline. Development also depends on third-party services and APIs for certain features.
+The project must be completed within the semester timeline. Development is also dependent on third-party services and APIs for certain features.
 
 The system must follow applicable security, privacy, and regulatory requirements to protect user information and payment transactions.
 
